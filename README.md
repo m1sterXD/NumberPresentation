@@ -18,15 +18,6 @@ goal: The target number to represent.
 limit: The maximum starting number for representation.
 show: If true, prints the internal dynamic programming table.
 
-
-Конечно! Документация проекта включает несколько ключевых элементов. Вот основные рекомендации для минимально необходимой документации:
-
-1. README.md
-README — это лицо вашего проекта на GitHub. Он должен содержать всю важную информацию о проекте.
-
-Пример содержимого README.md:
-markdown
-Copy code
 # Number Presentation
 
 This is a dynamic programming algorithm to find the minimal symbolic representation of a number using addition and multiplication. It optimizes the representation to minimize the number of symbols.
