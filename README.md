@@ -10,7 +10,7 @@ This is a dynamic programming algorithm to find the minimal symbolic representat
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/number-presentation.git
+   git clone https://github.com/m1sterXD/NumberPresentation
    cd number-presentation
 
 ### Parameters
