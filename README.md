@@ -29,24 +29,12 @@ This is a dynamic programming algorithm to find the minimal symbolic representat
 
 ## Usage
 1. Clone the repository:
-   ```bash
    git clone https://github.com/your-username/number-presentation.git
    cd number-presentation
-Run the program:
 
-bash
-Copy code
+Run the program:
 go run main.go
 Customize the goal, limit, and show parameters in main.go:
-
-go
-Copy code
-n, p := NumberPresentation(343, 1, true)
-fmt.Println("Representation:", n, "Symbols:", p)
-Parameters
-goal: The target number to represent.
-limit: The maximum starting number for representation.
-show: If true, prints the internal dynamic programming table.
 
 ### How It Works
 The algorithm uses dynamic programming to:
